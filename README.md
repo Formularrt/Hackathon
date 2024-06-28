@@ -1,2 +1,2 @@
 # Hackathon
-Stackathon
+I participated in an event called Stackathon and this is the website I have used to convey my idea which was to create an app that has trackers on each GOV veichle and people will be able to request them of they are not on a current call. Government vehicles play a critical role in delivering essential public services such as emergency response, law enforcement, and public works. The implementation of an advanced emergency tracker system can significantly enhance the safety and efficiency of these operations. This system leverages modern technology to provide real-time data that can be used to improve response times, ensure the safety of personnel, and optimize resource allocation.
